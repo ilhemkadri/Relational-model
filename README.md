@@ -44,3 +44,7 @@ Room (Type_Id) ↔ Type (Type_Id as FK) [1:1]
 Room (Category_Id) ↔ Category (Category_Id as FK) [1:N]
 Hotel (Hotel_Id) ↔ Employee (Hotel_Id as FK) [1:N]
 Employee (Employee_Id) ↔ Leads Relationship (Hotel leads the employee) [1:1]
+
+
+![Image](https://github.com/user-attachments/assets/73d2e639-ce91-4241-aae0-8803af48d294)
+
